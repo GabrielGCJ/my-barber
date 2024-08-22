@@ -1,6 +1,6 @@
 # MyBarbershop
 
-Bem vindo ao projeto de barbearias mais inivador dos ultimos anos
+Bem vindo ao projeto de barbearias mais inivador dos ultimos anos.
 
 
 ### Para rodar o projeto:
