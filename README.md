@@ -11,7 +11,8 @@ Bem vindo ao projeto de barbearias mais inivador dos ultimos anos.
 ----
 
 Diagrama Banco
-![image](https://github.com/user-attachments/assets/4cc03742-7816-4ccb-9e18-1ccde61b10a0)
+![image](https://github.com/user-attachments/assets/9f3507af-22a6-4219-bf56-93bc44d734a6)
+
 
 ----
 
